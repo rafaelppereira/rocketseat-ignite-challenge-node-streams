@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-desafio",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-generate": "^4.2.6",
+    "csv-parse": "^5.3.10",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
